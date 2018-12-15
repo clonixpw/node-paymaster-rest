@@ -1,0 +1,23 @@
+{
+  "name": "paymaster-api",
+  "version": "1.0.0",
+  "description": "Library for rest api paymaster https://paymaster.ru/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clonixpw/node-paymaster-rest.git"
+  },
+  "keywords": [],
+  "author": "clonix.pw",
+  "license": "GLWTPL",
+  "bugs": {
+    "url": "https://github.com/clonixpw/node-paymaster-rest/issues"
+  },
+  "homepage": "https://github.com/clonixpw/node-paymaster-rest#readme",
+  "dependencies": {
+    "got": "^9.4.0"
+  }
+}
