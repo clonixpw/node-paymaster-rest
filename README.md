@@ -12,7 +12,7 @@ $ npm install paymaster-api
 
  2. require paymaster-api module
 ```js
-const paymaster = require('paymaster-api');
+const paymaster = require('paymaster-api')
 ```
 
  3. run any method from https://paymaster.ru/docs/restapi.html
